@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "css.lint.compatibleVendorPrefixes": "warning",
+  "editor.fontWeight": "normal",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
